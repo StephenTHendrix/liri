@@ -47,6 +47,7 @@
 
 [![Concert Screen Shot][concert-screenshot]]
 [![Movie Name Screen Shot][movie-screenshot]]
+[![Movie Name Default Screen Shot][nobody-screenshot]]
 [![Spotify Name Screen Shot][spotify-screenshot]]
 [![Random Name Screen Shot][random-screenshot]]
 
@@ -290,5 +291,6 @@ Project Link: [https://github.com/StephenTHendrix/liri](https://github.com/Steph
 
 [concert-screenshot]: images/concert.png
 [movie-screenshot]: images/movie.png
+[nobody-screenshot]: images/nobody.png
 [spotify-screenshot]: images/spotify.png
 [random-screenshot]: images/random.png
